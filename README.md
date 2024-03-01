@@ -15,6 +15,11 @@
 * First
 * Second
 
+| Col1 | Col2 | Col3
+|-|-|-
+| RowA
+| RowB
+
 ### Sub-Section
 
 #### Sub-sub-section
